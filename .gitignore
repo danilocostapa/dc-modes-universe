@@ -1,0 +1,24 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Pastas do VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Pasta node_modules (se usar Node.js futuramente)
+node_modules/
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Backups e arquivos temporários comuns
+*~
+*.bak
+
+# Arquivos ocultos de sistema (Linux/macOS)
+.cache/
+.env
